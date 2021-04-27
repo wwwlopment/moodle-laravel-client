@@ -6,7 +6,6 @@
 Then, add these lines to the composer.json of the Laravel skeleton application:
 
 <pre>composer install</pre>
-<pre>npm i</pre>
 
 <pre>cp .env.example .env</pre>
 and set this variables in your .env - file:
